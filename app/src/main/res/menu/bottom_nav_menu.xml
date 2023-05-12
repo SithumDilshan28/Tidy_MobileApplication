@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/bottom_nav_home"
+        android:title="Tidy"
+        android:icon = "@drawable/cleaning"
+        app:cnb_backgroundColor="#03A9F4"/>
+
+    <item
+        android:id="@+id/bottom_nav_login"
+        android:title="Login"
+        android:icon = "@drawable/login"
+        app:cnb_backgroundColor="#03A9F4"/>
+
+    <item
+        android:id="@+id/bottom_nav_AboutUs"
+        android:title="About Us"
+        android:icon = "@drawable/info"
+        app:cnb_backgroundColor="#03A9F4"/>
+
+</menu>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/New folder/Tidy/app/src/main/res/drawable/custom_button.xml" value="0.2703125" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/drawable/custom_color.xml" value="0.2703125" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/drawable/custome_button.xml" value="0.2703125" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/drawable/round_corners.xml" value="0.14635416666666667" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_add_adz.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_cleaner_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_cleaner_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_cleaner_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_display_adz.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_house_owner_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_house_owner_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_house_owner_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_main_page.xml" value="0.264" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_requests.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/activity_view_cleaners.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/fragment_aboutus.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/fragment_fragement_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/fragment_login.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/fragment_tidy.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/layout/singledatafor_adds.xml" value="0.25416666666666665" />
+        <entry key="..\:/New folder/Tidy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.24010416666666667" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_add_adz.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_addreview.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_addreviewads.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_cleaner_menu.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_cleaner_signup.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_display_adz.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_house_owner_login.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_house_owner_menu.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_house_owner_signup.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_main_page.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_requests.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_review_cleaner.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_view_adz.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/activity_view_cleaners.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/fragment_aboutus.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/fragment_login.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/fragment_tidy.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/singledatafor_addreviewads.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/singledatafor_adds.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/singledatafor_applyadds.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/singledatafor_applyjob.xml" value="0.245018115942029" />
+        <entry key="..\:/Sithum Dilshan - CL-HDCSE-96-15/Tidy/app/src/main/res/layout/singledatafor_cleaners.xml" value="0.264" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_add_adz.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_addreview.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_addreviewads.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_apply_job.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_cleaner_login.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_cleaner_menu.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_cleaner_signup.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_display_adz.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_house_owner_login.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_house_owner_menu.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_house_owner_signup.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_main.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_main_page.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_requests.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_review_cleaner.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_view_adz.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/activity_view_cleaners.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/fragment_aboutus.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/fragment_login.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/fragment_tidy.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/singledatafor_addreviewads.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/singledatafor_adds.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/singledatafor_applyadds.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/singledatafor_applyjob.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/layout/singledatafor_cleaners.xml" value="0.24365942028985507" />
+        <entry key="..\:/Tidy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_add_adz.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_addreview.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_addreviewads.xml" value="0.3484375" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_apply_job.xml" value="0.3484375" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_cleaner_login.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_cleaner_menu.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_cleaner_signup.xml" value="0.1" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_display_adz.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_house_owner_login.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_house_owner_menu.xml" value="0.33" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_main.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_main_page.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_requests.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_review_cleaner.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_view_adz.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/activity_view_cleaners.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/fragment_aboutus.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/fragment_tidy.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/singledatafor_addreviewads.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/singledatafor_adds.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/singledatafor_applyadds.xml" value="0.3625" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/singledatafor_applyjob.xml" value="0.3614583333333333" />
+        <entry key="..\:/Users/madur/Desktop/Tidy/app/src/main/res/layout/singledatafor_cleaners.xml" value="0.3625" />
+        <entry key="..\:/Users/shanu/AndroidStudioProjects/Tidy/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
