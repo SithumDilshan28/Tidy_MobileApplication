@@ -1,4 +1,4 @@
-# Tidy: Android Cleaning Job Finder Application
+# Tidy: Android Cleaning Job Finder Application 
 
 Tidy is a dynamic Android mobile application developed as a university project for the Mobile Application Development module. It serves as a reliable cleaning job finder platform, connecting individuals seeking cleaning services with professional cleaners in their area. Tidy combines intuitive design with powerful features to provide users with a convenient and efficient way to find and book cleaning jobs.
 
